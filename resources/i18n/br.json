@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Abijeet Patro",
 			"Fulup"
 		]
 	},
@@ -22,7 +23,7 @@
 	"resume": "Adstagañ ganti",
 	"cancel": "Nullañ",
 	"apply": "Lakaat da dalvezout",
-	"version": "Stumm",
+	"about-version": "Stumm",
 	"hide": "Kuzhat",
 	"start-kiwix-server": "Enaouiñ servijer Kiwix",
 	"other": "Traoù all",

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Abijeet Patro",
 			"Joao Xavier"
 		]
 	},
@@ -28,7 +29,7 @@
 	"resume": "Durigar",
 	"cancel": "Anular",
 	"apply": "Aplikar",
-	"version": "Versiono",
+	"about-version": "Versiono",
 	"hide": "Celez",
 	"start-kiwix-server": "Startar servero Kiwix",
 	"other": "Altra",
